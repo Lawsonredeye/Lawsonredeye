@@ -1,17 +1,17 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Lawson redeye</h1>
+<h1 align="center">Hi 👋, I'm Lawson redeye</h1>
 <h3 align="center">A passionate Backend Software Engineer from Nigeria and a passionate golang developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawsonredeye" alt="lawsonredeye" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on [100 Days Of GoLang](https://github.com/Lawsonredeye/100DaysOfGoLang)
+- 🔭 I’m currently working on [100 Days Of GoLang](https://github.com/Lawsonredeye/100DaysOfGoLang)
 
-- ðŸŒ± Iâ€™m currently learning **Golang, Gin web framework**
+- 🌱 I’m currently learning **Golang, Gin web framework**
 
-- ðŸ’¬ Ask me about **Golang, NGINX,**
+- 💬 Ask me about **Golang, NGINX,**
 
-- ðŸ“« How to reach me **omoregbeeolawson@gmail.com**
+- 📫 How to reach me **omoregbeeolawson@gmail.com**
 
-- âš¡ Fun fact **I love golang ðŸ˜ðŸ™‚**
+- ⚡ Fun fact **I love golang 😁🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
